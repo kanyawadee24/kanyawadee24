@@ -17,6 +17,6 @@
 
  [![](https://visitcount.itsvg.in/api?id=kanyawadee24&icon=5&color=10)](https://visitcount.itsvg.in) <br>
  <br>
-⊱ ───────────────── thanks for taking the time to explore my GitHub! ʕ•ᴥ•ʔﾉ♡
- ───────────────── ⊰
+⊱ ────────── thanks for taking the time to explore my GitHub! ʕ•ᴥ•ʔﾉ♡
+ ────────── ⊰
 
