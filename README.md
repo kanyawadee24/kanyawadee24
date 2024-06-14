@@ -13,10 +13,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanyawadee24&show_icons=true&theme=dracula)<br/>
 
-
-
  [![](https://visitcount.itsvg.in/api?id=kanyawadee24&icon=5&color=10)](https://visitcount.itsvg.in) <br>
- <br>
-⊱ ────────── thanks for taking the time to explore my GitHub! ʕ•ᴥ•ʔﾉ♡
- ────────── ⊰
+
+ ──────────────── Thanks for taking the time to explore my GitHub!  ʕ•ᴥ•ʔﾉ♡
+
 
