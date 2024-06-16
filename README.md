@@ -1,11 +1,11 @@
 
  <div align="center">
-<h1>૮˙Ⱉ˙ა  Hi, I'm party!</h1>
+<h1>૮˙Ⱉ˙აHi, My name is Kanyawadee!</h1>
 </div>
 
 <div align="center">
 
-<img height=200px src="https://img5.pic.in.th/file/secure-sv1/IMG_0124.jpg" alt="IMG 0124" border="0"></br>
+<img height=240px src="https://img5.pic.in.th/file/secure-sv1/IMG_0124.jpg" alt="IMG 0124" border="0"></br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
