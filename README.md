@@ -1,6 +1,8 @@
 
  <div align="center">
-<h1>૮˙Ⱉ˙აHi, My name is Kanyawadee!</h1>
+<h1>Hi, My name is Kanyawadee!</h1>
+   <h3> 👋🏼૮˙Ⱉ˙ა 🌷🌎</h3>
+
 </div>
 
 <div align="center">
