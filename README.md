@@ -1,13 +1,13 @@
 
  <div align="center">
-<h1>Hi, My name is Kanyawadee!</h1>
-   <h3> 👋🏼૮˙Ⱉ˙ა 🌷🌎</h3>
+<h1>Hi, I'm Kanyawadee! 👋🏼</h1>
+   <h3> ૮˙Ⱉ˙ა🌷🌎</h3>
 
 </div>
 
 <div align="center">
 
-<img height=240px src="https://img5.pic.in.th/file/secure-sv1/IMG_0124.jpg" alt="IMG 0124" border="0"></br>
+<img height=250px src="https://img5.pic.in.th/file/secure-sv1/IMG_05002e5154ca1c3e479a.jpg"  border="0"></br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
