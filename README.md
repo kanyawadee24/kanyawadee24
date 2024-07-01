@@ -4,15 +4,13 @@
    <h3> ૮˙Ⱉ˙ა🌷🌎</h3>
 
 </div>
+<br>
 
 <div align="center">
 <img height=250px  src="https://img2.pic.in.th/pic/IMG_0571.jpg" alt="IMG 0571" border="0"> </br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Daynlight/Daynlight/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture></br>
+<br>
+
  👩🏻‍💻  My Journey Into Tech♡<br/>
  🎯 Im practicing and developing my coding skills.<br/>
  🌵 "Building the future, one bug fix at a time. 🛠️💫 #JuniorCoderQuest"</div>
