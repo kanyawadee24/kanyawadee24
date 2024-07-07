@@ -6,7 +6,7 @@
 
 <div align="center">
  <img height=250px  src="https://img2.pic.in.th/pic/phonto0cc124c41e317a24.png" alt="phonto" border="0">
-<br>
+<br/>
 
 
  👩🏻‍💻  My Journey Into Tech♡<br/>
@@ -25,12 +25,18 @@
 <div align=center>
 
 ##  📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kanyawadee24&hide_progress=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kanyawadee24&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kanyawadee24&show_icons=true&theme=dracula)<br/>
+ ![](https://github-readme-stats.vercel.app/api?username=kanyawadee24&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kanyawadee24&theme=material-palenight&hide_border=true)<br/>
 
- [![](https://visitcount.itsvg.in/api?id=kanyawadee24&icon=5&color=10)](https://visitcount.itsvg.in) </div>
+ [![](https://visitcount.itsvg.in/api?id=kanyawadee24&icon=5&color=10)](https://visitcount.itsvg.in) <br/>
 
+ </div>
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align=center>
 
  ᴛʜᴀɴᴋꜱ ꜰᴏʀ ᴜʀ ᴠɪꜱɪᴛ  ʕ•ᴥ•ʔﾉ♡
