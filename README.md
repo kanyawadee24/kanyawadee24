@@ -5,9 +5,9 @@
  </div>
 
 <div align="center">
-<img height=250px  src="https://img2.pic.in.th/pic/IMG_0571.jpg" alt="IMG 0571" border="0"> </br>
-
+ <img height=250px  src="https://img2.pic.in.th/pic/phonto0cc124c41e317a24.png" alt="phonto" border="0">
 <br>
+
 
  👩🏻‍💻  My Journey Into Tech♡<br/>
  🎯 Im practicing and developing my coding skills.<br/>
