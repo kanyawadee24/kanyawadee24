@@ -1,10 +1,8 @@
 
  <div align="center">
 <h1>Hi, I'm Kanyawadee! 👋🏼</h1>
-   <h3> ૮˙Ⱉ˙ა🌷🌎</h3>
-
-</div>
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=B28CF7&random=false&width=435&lines=Welcome+to+My+GitHub+Profile%F0%9F%92%96%F0%9F%8C%B7%E2%9B%93%EF%B8%8F" alt="Typing SVG" /></a>
+ </div>
 
 <div align="center">
 <img height=250px  src="https://img2.pic.in.th/pic/IMG_0571.jpg" alt="IMG 0571" border="0"> </br>
