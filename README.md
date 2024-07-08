@@ -7,7 +7,7 @@
 
 <div align="center">
  <img height=250px  src="https://img2.pic.in.th/pic/phonto0cc124c41e317a24.png" alt="phonto" border="0">
-<br/>
+
 <br>
  👩🏻‍💻  My Journey Into Tech♡<br/>
  🎯 Im practicing and developing my coding skills.<br/>
@@ -29,7 +29,10 @@
  ![](https://github-readme-stats.vercel.app/api?username=kanyawadee24&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kanyawadee24&theme=material-palenight&hide_border=true)<br/>
 
- [![](https://visitcount.itsvg.in/api?id=kanyawadee24&icon=5&color=10)](https://visitcount.itsvg.in) <br/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=kanyawadee24&label=%F0%9F%91%80%F0%9F%94%8D&color=11&icon=2&pretty=true" />
+</a>
+<br/>
 
  </div>
 
