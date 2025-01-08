@@ -31,8 +31,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kanyawadee24&theme=material-palenight&hide_border=true)<br/>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=kanyawadee24&label=%F0%9F%91%80%F0%9F%94%8D&color=11&icon=2&pretty=true" />
-</a>
+<!--   <img src="https://visitcount.itsvg.in/api?id=kanyawadee24&label=%F0%9F%91%80%F0%9F%94%8D&color=11&icon=2&pretty=true" />
+</a> -->
 <br/>
 
  </div>
